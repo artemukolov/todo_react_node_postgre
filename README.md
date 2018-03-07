@@ -1,4 +1,4 @@
-###Example TODO app
+Example TODO app
 
 To run the server:
  1) Put your Postgres settings to /server/config/db.json.default or create new file named /server/config/db.json
