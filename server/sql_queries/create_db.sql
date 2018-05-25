@@ -12,7 +12,7 @@ DROP TABLE IF EXISTS iq.public.task;
 
 CREATE TABLE iq.public.task (
     id serial,
-    text text,
+    name text,
     position serial,
     column_id integer
  )
